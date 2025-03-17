@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DreamShare - Rede Social para Compartilhamento de Sonhos
 
 DreamShare é uma rede social dedicada ao compartilhamento e exploração de sonhos. Permite que os usuários publiquem seus sonhos, interajam com outros sonhadores, utilizem hashtags e compartilhem imagens, vídeos e GIFs relacionados aos seus sonhos.
@@ -89,3 +90,6 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 ---
 
 Criado com 💜 por @joaoportolan93 
+=======
+# dream
+>>>>>>> 93843df543736835616e1e3a8f4b0b78db64b87e
